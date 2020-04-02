@@ -1,5 +1,5 @@
 <?php 
 include_once ('employee.php');
 $mobileRestHandler = new Employee();
-$mobileRestHandler->delte();
+$mobileRestHandler->delete();
 ?>
